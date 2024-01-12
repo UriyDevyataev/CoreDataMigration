@@ -14,8 +14,8 @@
             filePath = "TestCoreDataMigration/Container.swift"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "40"
-            endingLineNumber = "40"
+            startingLineNumber = "33"
+            endingLineNumber = "33"
             landmarkName = "clean()"
             landmarkType = "7">
             <Locations>
@@ -118,22 +118,6 @@
       <BreakpointProxy
          BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
          <BreakpointContent
-            uuid = "5955F7FF-E95D-4FB3-B6AC-AE65F8F28057"
-            shouldBeEnabled = "Yes"
-            ignoreCount = "0"
-            continueAfterRunningActions = "No"
-            filePath = "TestCoreDataMigration/CoreDataManager.swift"
-            startingColumnNumber = "9223372036854775807"
-            endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "93"
-            endingLineNumber = "93"
-            landmarkName = "CoreDataManager"
-            landmarkType = "3">
-         </BreakpointContent>
-      </BreakpointProxy>
-      <BreakpointProxy
-         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
-         <BreakpointContent
             uuid = "9E786F79-0825-4D96-87ED-5A8F3B20CDBB"
             shouldBeEnabled = "Yes"
             ignoreCount = "0"
@@ -189,8 +173,8 @@
             filePath = "TestCoreDataMigration/Container.swift"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "91"
-            endingLineNumber = "91"
+            startingLineNumber = "84"
+            endingLineNumber = "84"
             landmarkName = "migrate()"
             landmarkType = "7">
          </BreakpointContent>
@@ -205,8 +189,8 @@
             filePath = "TestCoreDataMigration/Container.swift"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "100"
-            endingLineNumber = "100"
+            startingLineNumber = "93"
+            endingLineNumber = "93"
             landmarkName = "migrate()"
             landmarkType = "7">
             <Locations>
@@ -253,8 +237,8 @@
             filePath = "TestCoreDataMigration/Container.swift"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "109"
-            endingLineNumber = "109"
+            startingLineNumber = "102"
+            endingLineNumber = "102"
             landmarkName = "migrate()"
             landmarkType = "7">
          </BreakpointContent>
@@ -269,40 +253,8 @@
             filePath = "TestCoreDataMigration/Container.swift"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "221"
-            endingLineNumber = "221"
-            landmarkName = "createDestinationInstances(forSource:in:manager:)"
-            landmarkType = "7">
-         </BreakpointContent>
-      </BreakpointProxy>
-      <BreakpointProxy
-         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
-         <BreakpointContent
-            uuid = "6D30F9B6-3043-45B3-A222-A85C20EDE7C8"
-            shouldBeEnabled = "Yes"
-            ignoreCount = "0"
-            continueAfterRunningActions = "No"
-            filePath = "TestCoreDataMigration/Container.swift"
-            startingColumnNumber = "9223372036854775807"
-            endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "224"
-            endingLineNumber = "224"
-            landmarkName = "createDestinationInstances(forSource:in:manager:)"
-            landmarkType = "7">
-         </BreakpointContent>
-      </BreakpointProxy>
-      <BreakpointProxy
-         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
-         <BreakpointContent
-            uuid = "190568C7-2F32-458E-B1B6-3138029C4DE2"
-            shouldBeEnabled = "Yes"
-            ignoreCount = "0"
-            continueAfterRunningActions = "No"
-            filePath = "TestCoreDataMigration/Container.swift"
-            startingColumnNumber = "9223372036854775807"
-            endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "227"
-            endingLineNumber = "227"
+            startingLineNumber = "154"
+            endingLineNumber = "154"
             landmarkName = "createDestinationInstances(forSource:in:manager:)"
             landmarkType = "7">
          </BreakpointContent>
@@ -317,8 +269,8 @@
             filePath = "TestCoreDataMigration/Container.swift"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "149"
-            endingLineNumber = "149"
+            startingLineNumber = "139"
+            endingLineNumber = "139"
             landmarkName = "createMappingModel()"
             landmarkType = "7">
          </BreakpointContent>
@@ -333,10 +285,10 @@
             filePath = "TestCoreDataMigration/Container.swift"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "259"
-            endingLineNumber = "259"
-            landmarkName = "end(_:manager:)"
-            landmarkType = "7">
+            startingLineNumber = "174"
+            endingLineNumber = "174"
+            landmarkName = "Post2ToPost3MigrationPolicy"
+            landmarkType = "3">
          </BreakpointContent>
       </BreakpointProxy>
       <BreakpointProxy
@@ -349,9 +301,9 @@
             filePath = "TestCoreDataMigration/Container.swift"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "255"
-            endingLineNumber = "255"
-            landmarkName = "performCustomValidation(forMapping:manager:)"
+            startingLineNumber = "170"
+            endingLineNumber = "170"
+            landmarkName = "createDestinationInstances(forSource:in:manager:)"
             landmarkType = "7">
          </BreakpointContent>
       </BreakpointProxy>
@@ -365,9 +317,9 @@
             filePath = "TestCoreDataMigration/Container.swift"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "251"
-            endingLineNumber = "251"
-            landmarkName = "endRelationshipCreation(forMapping:manager:)"
+            startingLineNumber = "166"
+            endingLineNumber = "166"
+            landmarkName = "createDestinationInstances(forSource:in:manager:)"
             landmarkType = "7">
          </BreakpointContent>
       </BreakpointProxy>
@@ -381,9 +333,9 @@
             filePath = "TestCoreDataMigration/Container.swift"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "247"
-            endingLineNumber = "247"
-            landmarkName = "createRelationships(forDestination:in:manager:)"
+            startingLineNumber = "162"
+            endingLineNumber = "162"
+            landmarkName = "createDestinationInstances(forSource:in:manager:)"
             landmarkType = "7">
          </BreakpointContent>
       </BreakpointProxy>
@@ -397,9 +349,9 @@
             filePath = "TestCoreDataMigration/Container.swift"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "243"
-            endingLineNumber = "243"
-            landmarkName = "endInstanceCreation(forMapping:manager:)"
+            startingLineNumber = "158"
+            endingLineNumber = "158"
+            landmarkName = "createDestinationInstances(forSource:in:manager:)"
             landmarkType = "7">
          </BreakpointContent>
       </BreakpointProxy>
@@ -413,8 +365,8 @@
             filePath = "TestCoreDataMigration/Container.swift"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "213"
-            endingLineNumber = "213"
+            startingLineNumber = "146"
+            endingLineNumber = "146"
             landmarkName = "begin(_:with:)"
             landmarkType = "7">
          </BreakpointContent>

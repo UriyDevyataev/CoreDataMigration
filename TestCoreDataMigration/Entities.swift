@@ -2,7 +2,7 @@
 //  Entities.swift
 //  TestCoreDataMigration
 //
-//  Created by Юрий Девятаев on 10.01.2024.
+//  Created by Yriy Devyataev on 10.01.2024.
 //
 
 import CoreData

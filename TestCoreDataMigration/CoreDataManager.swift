@@ -2,7 +2,7 @@
 //  CoreDataManager.swift
 //  TestCoreDataMigration
 //
-//  Created by Юрий Девятаев on 10.01.2024.
+//  Created by Yriy Devyataev on 10.01.2024.
 //
 
 import Foundation
@@ -73,46 +73,6 @@ class CoreDataManager {
         }
     }
 
-//    func printDB() {
-//        let context = self.persistentContainer.newBackgroundContext()
-//
-//        let tasks = context.performAndWait {
-//            do {
-//                let fetchRequest = DBEditTextTask.makeFetchRequest()
-//                return try context.fetch(fetchRequest)
-//            } catch {
-//                fatalError("printDB error \(error)")
-//            }
-//        }
-//
-//        let customers = context.performAndWait {
-//            do {
-//                let fetchRequest = DBCustomerDraft.makeFetchRequest()
-//                return try context.fetch(fetchRequest)
-//            } catch {
-//                fatalError("printDB error \(error)")
-//            }
-//        }
-//
-//        print("================Print=============")
-//
-//        tasks.forEach {
-//            print("task \($0.id), chatId = \($0.chatId)")
-////            let customerIds = $0.customerDraft?.map { customer in customer.id }
-////            let customerIds = $0.customerDraft?.id
-////            print("customerIds = \(customerIds)")
-//            print("customerIds = \($0.customerDraft)")
-//        }
-//
-//        print("================")
-//
-//        customers.forEach {
-//            print("customer \($0.id), email = \($0.email), customer task = \($0.editTextTask?.id), customer task chatId = \($0.editTextTask?.chatId)")
-//        }
-//
-//        print("================End=============")
-//
-//    }
     func printDB() {
         let context = self.persistentContainer.newBackgroundContext()
 

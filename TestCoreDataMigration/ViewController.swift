@@ -2,7 +2,7 @@
 //  ViewController.swift
 //  TestCoreDataMigration
 //
-//  Created by Юрий Девятаев on 10.01.2024.
+//  Created by Yriy Devyataev on 10.01.2024.
 //
 
 import UIKit
@@ -13,7 +13,6 @@ class ViewController: UIViewController {
 
     override func viewDidLoad() {
         super.viewDidLoad()
-        // Do any additional setup after loading the view.
     }
 
 
