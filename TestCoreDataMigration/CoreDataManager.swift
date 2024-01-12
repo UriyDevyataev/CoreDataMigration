@@ -32,7 +32,7 @@ class CoreDataManager {
 
         let needMigration = self.persistentContainer.needMigration()
 
-        if !needMigration {
+        if needMigration {
             print("need migration")
             self.persistentContainer.migrate()
         } else {
