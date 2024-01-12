@@ -287,8 +287,8 @@
             endingColumnNumber = "9223372036854775807"
             startingLineNumber = "174"
             endingLineNumber = "174"
-            landmarkName = "Post2ToPost3MigrationPolicy"
-            landmarkType = "3">
+            landmarkName = "end(_:manager:)"
+            landmarkType = "7">
          </BreakpointContent>
       </BreakpointProxy>
       <BreakpointProxy
@@ -303,7 +303,7 @@
             endingColumnNumber = "9223372036854775807"
             startingLineNumber = "170"
             endingLineNumber = "170"
-            landmarkName = "createDestinationInstances(forSource:in:manager:)"
+            landmarkName = "performCustomValidation(forMapping:manager:)"
             landmarkType = "7">
          </BreakpointContent>
       </BreakpointProxy>
@@ -319,7 +319,7 @@
             endingColumnNumber = "9223372036854775807"
             startingLineNumber = "166"
             endingLineNumber = "166"
-            landmarkName = "createDestinationInstances(forSource:in:manager:)"
+            landmarkName = "endRelationshipCreation(forMapping:manager:)"
             landmarkType = "7">
          </BreakpointContent>
       </BreakpointProxy>
@@ -335,7 +335,7 @@
             endingColumnNumber = "9223372036854775807"
             startingLineNumber = "162"
             endingLineNumber = "162"
-            landmarkName = "createDestinationInstances(forSource:in:manager:)"
+            landmarkName = "createRelationships(forDestination:in:manager:)"
             landmarkType = "7">
          </BreakpointContent>
       </BreakpointProxy>
@@ -351,7 +351,7 @@
             endingColumnNumber = "9223372036854775807"
             startingLineNumber = "158"
             endingLineNumber = "158"
-            landmarkName = "createDestinationInstances(forSource:in:manager:)"
+            landmarkName = "endInstanceCreation(forMapping:manager:)"
             landmarkType = "7">
          </BreakpointContent>
       </BreakpointProxy>

@@ -117,7 +117,7 @@ extension Container {
         editableMessageMapping.name = "MappingEditTextTask"
         editableMessageMapping.sourceEntityName = "EditTextTask"
         editableMessageMapping.destinationEntityName = "EditTextTask"
-        editableMessageMapping.mappingType = .copyEntityMappingType
+        editableMessageMapping.mappingType = .transformEntityMappingType
         editableMessageMapping.entityMigrationPolicyClassName = "TestCoreDataMigration.TaskMigrationPolicy"
 
         let idPropertyMapping = NSPropertyMapping()
